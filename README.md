@@ -1,7 +1,5 @@
 # SMB-Bruteforce- by Biswajit Malakar
 
-# SMB Brute Force Tool
-
 ## Description
 This repository contains a simple SMB brute force tool written in Batch language. The tool attempts to gain unauthorized access to SMB services by systematically guessing username and password combinations.
 
@@ -20,7 +18,7 @@ This repository contains a simple SMB brute force tool written in Batch language
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/yourusername/smb-bruteforce.git
+    https://github.com/zbm2005/SMB-Bruteforce.git
     cd smb-bruteforce
     ```
 
@@ -85,7 +83,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For any questions or issues, please open an issue in the repository or contact me at your.email@example.com.
+For any questions or issues, please open an issue in the repository or contact me at thecodekid0@gmail.com `.
 
 ---
 
